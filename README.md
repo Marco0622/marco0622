@@ -54,5 +54,5 @@
 
 ## 📫 Me contacter
 
-* 🌐 **Portfolio :** [marco-dev.fr](https://marco-dev.fr) 
+* 🌐 <b>Portfolio :</b> <a href="https://marco-dev.fr" target="_blank" rel="noopener noreferrer">marco-dev.fr</a>
 * ✉️ **E-mail :** [marco.schmitt622@gmail.com](mailto:marco.schmitt622@gmail.com) 
