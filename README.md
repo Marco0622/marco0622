@@ -12,7 +12,7 @@
 
 * 💻 Diplômé de la formation **DWWM** (Développeur Web et Web Mobile).
 * 🏫 Admis en formation **Concepteur Développeur d'Applications** (CDA - Bac+3) à la CCI de Strasbourg.
-* ⚙️ Ancien **électronicien** formé à l'IPCMS (maintenance, C++, PCB), ce qui m'a apporté rigueur technique et autonomie.
+* ⚙️ Ancien apprenti électronicien formé à l'IPCMS (maintenance, C++, PCB), ce qui m'a apporté rigueur technique et autonomie.
 * 🎯 **Objectif :** Trouver une entreprise pour m'accueillir en **alternance dès septembre 2026**.
 
 ---
