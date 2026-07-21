@@ -48,15 +48,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marco0622&show_icons=true&theme=radial&hide_border=true" alt="Statistiques Marco" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco0622&layout=compact&theme=radial&hide_border=true" alt="Langages les plus utilisés" width="48%" />
-</p>
-
----
-
 ## 📫 Me contacter
 
 * 🌐 **Portfolio :** [marco-dev.fr](https://marco-dev.fr) 
