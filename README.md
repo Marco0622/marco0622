@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Marco Schmitt !
 
-<!--
-**Marco0622/marco0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Apprenti Concepteur Développeur d'Applications (Bac+3)
+📍 Basé en Alsace | 💼 En recherche d'une **alternance** pour la rentrée de septembre 2026
 
-Here are some ideas to get you started:
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-marco--dev.fr-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://marco-dev.fr)
+[![Email Badge](https://img.shields.io/badge/Contact-marco.schmitt622%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.schmitt622@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 À propos de moi
+
+* [cite_start]💻 Diplômé de la formation **DWWM** (Développeur Web et Web Mobile)[cite: 30, 31].
+* [cite_start]🏫 Admis en formation **Concepteur Développeur d'Applications** (CDA - Bac+3) à la CCI de Strasbourg[cite: 13, 16, 63].
+* [cite_start]⚙️ Ancien **électronicien** formé à l'IPCMS (maintenance, C++, PCB), ce qui m'a apporté rigueur technique et autonomie[cite: 18, 19, 21, 74].
+* [cite_start]🎯 **Objectif :** Trouver une entreprise pour m'accueillir en **alternance dès septembre 2026**[cite: 13, 64].
+
+---
+
+## 🛠️ Stack Technique
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### **Backend & Bases de données**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### **CMS & Content**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+
+### **UI/UX & Modélisation**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![UML](https://img.shields.io/badge/Merise%20%2F%20UML-005571?style=flat-square)
+![Agile](https://img.shields.io/badge/Méthode-Agile_/_Scrum-FF6F00?style=flat-square)
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO_GITHUB&show_icons=true&theme=radial&hide_border=true" alt="Statistiques Marco" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO_GITHUB&layout=compact&theme=radial&hide_border=true" alt="Langages les plus utilisés" width="48%" />
+</p>
+
+---
+
+## 📫 Me contacter
+
+* [cite_start]🌐 **Portfolio :** [marco-dev.fr](https://marco-dev.fr) [cite: 2, 60]
+* [cite_start]✉️ **E-mail :** [marco.schmitt622@gmail.com](mailto:marco.schmitt622@gmail.com) [cite: 4, 59]
