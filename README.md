@@ -40,10 +40,14 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
 
-### **UI/UX & Modélisation**
+### **Design & Maquettage**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![UML](https://img.shields.io/badge/Merise%20%2F%20UML-005571?style=flat-square)
+![Affinity](https://img.shields.io/badge/Affinity-222222?style=flat-square&logo=affinity&logoColor=white)
+
+### **Conception & Modélisation**
+![Merise](https://img.shields.io/badge/Merise-005571?style=flat-square)
+![UML](https://img.shields.io/badge/UML-005571?style=flat-square&logo=unifiedmodelinglanguage&logoColor=white)
 ![Agile](https://img.shields.io/badge/Méthode-Agile_/_Scrum-FF6F00?style=flat-square)
 
 ---
