@@ -10,10 +10,10 @@
 
 ## 🚀 À propos de moi
 
-* [cite_start]💻 Diplômé de la formation **DWWM** (Développeur Web et Web Mobile)[cite: 30, 31].
-* [cite_start]🏫 Admis en formation **Concepteur Développeur d'Applications** (CDA - Bac+3) à la CCI de Strasbourg[cite: 13, 16, 63].
-* [cite_start]⚙️ Ancien **électronicien** formé à l'IPCMS (maintenance, C++, PCB), ce qui m'a apporté rigueur technique et autonomie[cite: 18, 19, 21, 74].
-* [cite_start]🎯 **Objectif :** Trouver une entreprise pour m'accueillir en **alternance dès septembre 2026**[cite: 13, 64].
+* 💻 Diplômé de la formation **DWWM** (Développeur Web et Web Mobile).
+* 🏫 Admis en formation **Concepteur Développeur d'Applications** (CDA - Bac+3) à la CCI de Strasbourg.
+* ⚙️ Ancien **électronicien** formé à l'IPCMS (maintenance, C++, PCB), ce qui m'a apporté rigueur technique et autonomie.
+* 🎯 **Objectif :** Trouver une entreprise pour m'accueillir en **alternance dès septembre 2026**.
 
 ---
 
@@ -51,13 +51,13 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO_GITHUB&show_icons=true&theme=radial&hide_border=true" alt="Statistiques Marco" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO_GITHUB&layout=compact&theme=radial&hide_border=true" alt="Langages les plus utilisés" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marco0622&show_icons=true&theme=radial&hide_border=true" alt="Statistiques Marco" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco0622&layout=compact&theme=radial&hide_border=true" alt="Langages les plus utilisés" width="48%" />
 </p>
 
 ---
 
 ## 📫 Me contacter
 
-* [cite_start]🌐 **Portfolio :** [marco-dev.fr](https://marco-dev.fr) [cite: 2, 60]
-* [cite_start]✉️ **E-mail :** [marco.schmitt622@gmail.com](mailto:marco.schmitt622@gmail.com) [cite: 4, 59]
+* 🌐 **Portfolio :** [marco-dev.fr](https://marco-dev.fr) 
+* ✉️ **E-mail :** [marco.schmitt622@gmail.com](mailto:marco.schmitt622@gmail.com) 
